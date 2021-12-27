@@ -1,0 +1,3 @@
+Foi usado nesse repositório class,get,this,const,if e Git.
+
+estou aprendendo JavaScript e colocando em prática o que venho estudando.
